@@ -1,14 +1,22 @@
 # CodingExercises
 
-1)CodingApplication is the main class to run the application
+Functionality with Classes Name : 
 
-2)CsvReaderService is the responsible for reading and parsing csv file  
+1)CodingApplication.java is the main class to run the application
 
-3)CalcaulateUserTrips will calculate user trips and prepare data for output trips
+2)CsvReaderService.java is the responsible for reading and parsing csv file  
 
-4)CsvWriterService will write the csv file with calculated values.
+3)CalcaulateUserTrips.java will calculate user trips and prepare data for output trips. 
+  Separate calculation comments mentioned inside the class
 
-5)FileReaderConstant have all the constant vlues.
+4)CsvWriterService.java will write the csv file with calculated values.
+
+5)FileReaderConstant.java have all the constant vlues.
+
+6)Test classes:
+  CalculateUserTripsTest.java
+  CsvReaderServiceTest.java
+  CsvWriterServiceTest.java
 
 user input trips stored in user_input.csv
 
